@@ -1,19 +1,19 @@
-DEVELOPED IN B.S.ABDUR RAHMAN UNIVERSITY---ONLINE PASSPORT AUTOMATION SYSTEM
+DEVELOPED IN Rvr&jc college of engineering---ONLINE PASSPORT AUTOMATION SYSTEM
 
 
 
 INSTRUCTOR
-	Dr.R.SRIRAM
+	Mrs. SJRK Padmini Valli
 
 TEAM MEMBERS
-	B.JAYASHREE
-	120071601038
+	Gunji Vijaya Raju
+	Y19CS052
 
-	A.LAVANYA
-	120071601043
+	E.Mojesh
+	Y19CS036
 
-	S.NANDITHA
-	120071601063
+	K.Sai Mahesh
+	Y19CS066
 	
 
 ONLINE PASSPORT REGISTRATION
@@ -21,7 +21,7 @@ ONLINE PASSPORT REGISTRATION
 	1.	The online passport registration system allows the user to apply for a new passport. Previously the whole process was completely carried out manually. The system allows the users to apply for a passport through online forms.
 
 
-2.	The website is designed using php and mysql.  The website requires registration with the basic details of the user. The users are provided with a username and a password. The registration details are stored in the table ‘register’.
+2.	The website is designed using php and mysql.  The website requires registration with the basic details of the user. The users are provided with a username and a password. The registration details are stored in the table â€˜registerâ€™.
 
 
 3.	The user have to login in order to perform the application to the passport. The username and password are validated from the actual values in the registration table. Then after successful login the site redirects to the personal information page.
